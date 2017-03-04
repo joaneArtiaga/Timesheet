@@ -1,0 +1,129 @@
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\NavDrawer.dll
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\NavDrawer.pdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\com.refractored.navdrawer.sample.apk
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\com.refractored.navdrawer.sample-Signed.apk
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\com.refractored.monodroidtoolkit.dll
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Refractored.PagerSlidingTabStrip.dll
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Refractored.PagerSlidingTabStrip.pdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Refractored.PagerSlidingTabStrip.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\NavDrawer.csprojResolveAssemblyReference.cache
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\NavDrawer.dll
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\NavDrawer.pdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\bin\com.refractored.navdrawer.sample.apk
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\fragment_friends_all.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\fragment_friends_recent.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\fragment_profile.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\item_menu.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\page_friend.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\page_home_view.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\fragment_browse.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\fragment_friends.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values-v21\styles.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\toolbar.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values\dimens.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values-land\dimens.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\item_monkey.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-hdpi\drawer_shadow_dark.9.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-hdpi\drawer_shadow_light.9.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-hdpi\ic_menu_refresh.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-mdpi\drawer_shadow_dark.9.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-mdpi\drawer_shadow_light.9.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-mdpi\ic_launcher.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-mdpi\ic_menu_refresh.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-xhdpi\ic_menu_refresh.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-xhdpi\drawer_shadow_dark.9.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-xhdpi\drawer_shadow_light.9.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\drawable-xxhdpi\ic_launcher.png
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\menu\refresh.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values\colors.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values\integers.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values\strings.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values\styles.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values-land\integers.xml
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\R.cs.flag
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\uploadflags.txt
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Mono.Android.Export.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\mscorlib.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.Core.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.Xml.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\NavDrawer.dll.mdb
+C:\Users\Joane14\Downloads\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\NavDrawer.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\NavDrawer.dll
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\NavDrawer.pdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\com.refractored.navdrawer.sample.apk
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\com.refractored.navdrawer.sample-Signed.apk
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\com.refractored.monodroidtoolkit.dll
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Refractored.PagerSlidingTabStrip.dll
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Refractored.PagerSlidingTabStrip.pdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Refractored.PagerSlidingTabStrip.xml
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\NavDrawer.csprojResolveAssemblyReference.cache
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\NavDrawer.dll
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\NavDrawer.pdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\bin\com.refractored.navdrawer.sample.apk
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\item_menu.xml
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\page_home_view.xml
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values-v21\styles.xml
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\layout\toolbar.xml
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values\dimens.xml
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values-land\dimens.xml
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values\colors.xml
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values\integers.xml
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values\strings.xml
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values\styles.xml
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\res\values-land\integers.xml
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\R.cs.flag
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\uploadflags.txt
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\Mono.Android.Export.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\mscorlib.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.Core.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.Xml.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\obj\Debug\NavDrawer.dll.mdb
+C:\Users\Joane14\Documents\Visual Studio 2015\Projects\Xam.NavDrawer\Material (Lollipop Style)\AppCompat v14+\bin\Debug\NavDrawer.dll.mdb

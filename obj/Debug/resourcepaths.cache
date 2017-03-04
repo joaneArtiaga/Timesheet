@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>
+    <AdditionalAndroidResourcePath>C:\Users\Joane14\AppData\Local\Xamarin\Xamarin.Android.Support.v4\22.1.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Joane14\AppData\Local\Xamarin\Xamarin.Android.Support.v7.AppCompat\22.1.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Joane14\AppData\Local\Xamarin\Xamarin.Android.Support.v7.CardView\22.1.1\embedded</AdditionalAndroidResourcePath>
+  </AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>
+    <AdditionalJavaLibraryReference>C:\Users\Joane14\AppData\Local\Xamarin\Xamarin.Android.Support.v4\22.1.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Joane14\AppData\Local\Xamarin\Xamarin.Android.Support.v4\22.1.1\embedded\libs\internal_impl-22.1.1.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Joane14\AppData\Local\Xamarin\Xamarin.Android.Support.v7.AppCompat\22.1.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Joane14\AppData\Local\Xamarin\Xamarin.Android.Support.v7.CardView\22.1.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+  </AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences />
+</Paths>
